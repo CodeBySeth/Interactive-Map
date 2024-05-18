@@ -9,7 +9,7 @@ Collaboration: This repository encourages collaboration. Feel free to contribute
 # Getting Started:
 Clone the Repository:
 
-git clone https://github.com/CodingDude1234/InteractiveMap.git
+git clone https://github.com/CodeBySeth/Interactive-Map.git
 
 # Explore the Map:
 
